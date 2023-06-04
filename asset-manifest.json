@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chess_react/static/css/main.6d313eb1.css",
+    "main.js": "/chess_react/static/js/main.9eec276a.js",
+    "static/media/r.svg": "/chess_react/static/media/r.fdc575582c2cbe2ec820.svg",
+    "static/media/n.svg": "/chess_react/static/media/n.7930be9e07b51bc0e069.svg",
+    "static/media/k.svg": "/chess_react/static/media/k.6c8cc8fabe5215cc854d.svg",
+    "static/media/q.svg": "/chess_react/static/media/q.cf388bf415c0d33ec16f.svg",
+    "static/media/K.svg": "/chess_react/static/media/K.3f959aab36df6290a8e0.svg",
+    "static/media/N.svg": "/chess_react/static/media/N.d47944d2cee4f8c707d1.svg",
+    "static/media/B.svg": "/chess_react/static/media/B.cf781aa194cfdc1a617a.svg",
+    "static/media/b.svg": "/chess_react/static/media/b.04932f63ef10dcdee115.svg",
+    "static/media/R.svg": "/chess_react/static/media/R.9e48b84f189eea24339f.svg",
+    "static/media/Q.svg": "/chess_react/static/media/Q.7a1aecff0f22ff68c43f.svg",
+    "static/media/P.svg": "/chess_react/static/media/P.50273cc6d86861932d0a.svg",
+    "static/media/p.svg": "/chess_react/static/media/p.be5d44ca5ee868885d21.svg",
+    "index.html": "/chess_react/index.html",
+    "main.6d313eb1.css.map": "/chess_react/static/css/main.6d313eb1.css.map",
+    "main.9eec276a.js.map": "/chess_react/static/js/main.9eec276a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d313eb1.css",
+    "static/js/main.9eec276a.js"
+  ]
+}
